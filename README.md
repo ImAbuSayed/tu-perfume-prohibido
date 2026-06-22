@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-perfume-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu perfume prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-prohibido/) |
+| **Get License** | [Get a Licensing Quote for Tu perfume prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fb5b7673e9aa478ea39e6211e1d8ad2114348acb61a39405417937a53c81950c` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

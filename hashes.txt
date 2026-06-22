@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu perfume prohibido
+
+This log tracks the cryptographic history and versioning for the song **Tu perfume prohibido** (tu-perfume-prohibido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T03:27:59.988884 | `v1` | `fb5b7673e9aa478ea39e6211e1d8ad2114348acb61a39405417937a53c81950c` | `8e968ae54d986d7d2a53ab802fd42c0eb9d06b9de2d90e22199aaf2d8c097e75` | `2026-06-23_tu-perfume-prohibido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
