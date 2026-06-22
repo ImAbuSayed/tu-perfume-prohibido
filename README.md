@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-perfume-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu perfume prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-prohibido/) |
+| **Get License** | [Official Music Licensing for Tu perfume prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu perfume prohibido en mi piel se quedó
+> Un veneno dulce que me tiene sin control
+> Bailamos sin tocar, pero siento tu calor
+> Esta noche es nuestra, no me pidas perdón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
